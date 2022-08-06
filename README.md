@@ -19,13 +19,13 @@
 
   <p align="center">
 
-<a href="#"><img title="VihangaMD" src="https://img.shields.io/badge/vihanga-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="CHAMIMD" src="https://img.shields.io/badge/chami-md-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 
 </p>
 
 </div>
 
-<p align="center">By Vihanga YT>| © | Reserved  </br> 
+<p align="center">By chami>| © | Reserved  </br> 
 
 
 1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-QR3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
@@ -40,7 +40,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`chami`](https://github.com/vihangayt0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
