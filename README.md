@@ -13,7 +13,7 @@
 
   <p align="center">
 
-<img src="https://i.ibb.co/THTK67m/Vihanga-MD.png" alt="GIF" width="300" height="270"/>
+<img src="https://i.ibb.co/MS8z9QP/1089311470.jpg" alt="GIF" width="300" height="270"/>
 
 </p>
 
