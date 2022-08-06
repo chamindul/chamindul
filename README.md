@@ -40,7 +40,7 @@
 
 
 ## Owner:
-* [`chami`](https://github.com/vihangayt0)
+* [`chami`](https://github.com/chamindul)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
